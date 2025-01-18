@@ -8,3 +8,5 @@ dong 7
 dong 8
 dong 9
 donng 12
+dong 10
+dong 11
