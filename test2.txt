@@ -3,3 +3,5 @@ tao add test 1
 tao add test 3
 tao add test 4
 tao add test 5
+tao add test 7
+tao add test 8
